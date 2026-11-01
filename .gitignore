@@ -1,0 +1,21 @@
+# Java
+**/target/
+
+# React/Vite
+**/node_modules/
+**/dist/
+
+# IDE
+.idea/
+.vscode/
+
+# Environment Files
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS Files
+Thumbs.db
+.DS_Store
